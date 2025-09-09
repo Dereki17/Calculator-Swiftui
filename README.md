@@ -14,13 +14,7 @@ It supports:
 - Slide-out history to reuse past calculations
 - Backspace (←) and clear (C) buttons
 
-## Screenshots
 
-Main view:
-![Calculator](Screenshots/calculator_main.png)
-
-History view:
-![History](Screenshots/calculator_history.png)
 
 ## How to use
 
@@ -54,13 +48,6 @@ Soporta:
 - Historial deslizable para reutilizar cálculos anteriores
 - Botón de borrar (`←`) y limpiar (`C`)
 
-## Screenshots
-
-Main view:
-![Calculator](Screenshots/calculator_main.png)
-
-History view:
-![History](Screenshots/calculator_history.png)
 
 ## Cómo usar
 
